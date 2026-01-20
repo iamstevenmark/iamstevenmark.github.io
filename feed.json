@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Steven Mark",
     "description": "",
-    "home_page_url": "https://iamstevenmark.github.io",
-    "feed_url": "https://iamstevenmark.github.io/feed.json",
+    "home_page_url": "https://www.stevenmark.com",
+    "feed_url": "https://www.stevenmark.com/feed.json",
     "user_comment": "",
-    "icon": "https://iamstevenmark.github.io/media/website/Steven-Mark-ico.jpg",
+    "icon": "https://www.stevenmark.com/media/website/Steven-Mark-ico.jpg",
     "author": {
         "name": "Steven Mark"
     },
