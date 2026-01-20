@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://iamstevenmark.github.io/sitemap.xml
